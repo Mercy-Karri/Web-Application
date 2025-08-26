@@ -7,7 +7,7 @@
     <h1>Student Details</h1>
  <form>
            First Name: <input type="text" name="First name" /><br><br>
-           Last Name :<input type="number" name="Last name"/><br><br>
+           Last Name :<input type="text" name="Last name"/><br><br>
             email id   : <input type="email" name="email id" /><br><br>
             Password  : <input type="password" name="password" /><br>
  <br>
@@ -21,10 +21,10 @@
 
 
             Select one technical skills you want to learn:<br><br>
-            <input type="checkbox" name="c" value="1"/>C<br>
-            <input type="checkbox" name="java" value="2"/>JAVA<br>
-            <input type="checkbox" name="python" value="3"/>PYTHON<br>
-            <input type="checkbox" name="html" value="4"/>HTML<br>
+            <input type="radio" name="c" value="1"/>C<br>
+            <input type="radio" name="java" value="2"/>JAVA<br>
+            <input type="radio" name="python" value="3"/>PYTHON<br>
+            <input type="radio" name="html" value="4"/>HTML<br>
 
             Remarks:
             <textarea rows = "3" cols = "20" name = "description"> 
