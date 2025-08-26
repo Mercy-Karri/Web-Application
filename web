@@ -9,7 +9,7 @@
            First Name: <input type="text" name="First name" /><br><br>
            Last Name :<input type="number" name="Last name"/><br><br>
             email id   : <input type="email" name="email id" /><br><br>
-            Password  : <input type="number" name="password" /><br>
+            Password  : <input type="password" name="password" /><br>
  <br>
 
             Select your section:
